@@ -1,0 +1,23 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/CRL-42/IoD_M3_Lab#readme",
+  "bugs": {
+    "url": "https://github.com/CRL-42/IoD_M3_Lab/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRL-42/IoD_M3_Lab.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "Advanced.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
